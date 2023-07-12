@@ -1,10 +1,12 @@
 {
-    "cSpell.words": [
-        "azuretools",
-        "bierner",
-        "dbaeumer",
-        "nrwl",
-        "oderwat",
-        "yzhang"
-    ]
+  "cSpell.words": [
+    "azuretools",
+    "bierner",
+    "datasource",
+    "dbaeumer",
+    "nrwl",
+    "oderwat",
+    "signout",
+    "yzhang"
+  ]
 }

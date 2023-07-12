@@ -21,7 +21,8 @@
         "rangav.vscode-thunder-client",
         "esbenp.prettier-vscode",
         "DavidAnson.vscode-markdownlint",
-        "ms-vscode-remote.remote-containers"
+        "ms-vscode-remote.remote-containers",
+        "prisma.prisma"
       ]
     }
   },
