@@ -18,7 +18,10 @@
         "ms-azuretools.vscode-docker",
         "bierner.markdown-preview-github-styles",
         "yzhang.markdown-all-in-one",
-        "rangav.vscode-thunder-client"
+        "rangav.vscode-thunder-client",
+        "esbenp.prettier-vscode",
+        "DavidAnson.vscode-markdownlint",
+        "ms-vscode-remote.remote-containers"
       ]
     }
   },
