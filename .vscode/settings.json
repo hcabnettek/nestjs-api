@@ -3,9 +3,11 @@
     "azuretools",
     "bierner",
     "datasource",
+    "datasources",
     "dbaeumer",
     "nrwl",
     "oderwat",
+    "pern",
     "signout",
     "yzhang"
   ]

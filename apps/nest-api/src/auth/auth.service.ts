@@ -5,7 +5,6 @@ import { AuthDto } from './dto';
 import * as bcrypt from 'bcrypt';
 import { Tokens } from './types';
 import { JwtService } from '@nestjs/jwt';
-import { Tracing } from 'trace_events';
 
 @Injectable()
 export class AuthService {
